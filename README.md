@@ -32,7 +32,7 @@
 
 ### 1. Клонирование репозитория
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/yuriy5mol/ai-chat-bot.git
 cd ai-chat-bot
 ```
 
